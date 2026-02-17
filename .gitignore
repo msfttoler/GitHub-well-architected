@@ -1,0 +1,9 @@
+# Virtual environment
+.venv/
+
+# Generated assessment reports
+well-architected-report.*
+
+# Python
+__pycache__/
+*.pyc
